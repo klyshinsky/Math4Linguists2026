@@ -14,5 +14,8 @@
 
 [Занятие 4, часть 1](https://github.com/klyshinsky/Math4Linguists2026/blob/main/Lecture_6_Trees_20260425.ipynb) - Алгоритмы на деревьях. B-деревья.
 
-[Занятие 4, часть 1](https://github.com/klyshinsky/Math4Linguists2026/blob/main/Lecture_7_Indexing_and_Search_20260425.ipynb) - Индексный поиск. Поиск в векторном пространстве. 
+[Занятие 4, часть 2](https://github.com/klyshinsky/Math4Linguists2026/blob/main/Lecture_7_Indexing_and_Search_20260425.ipynb) - Индексный поиск. Поиск в векторном пространстве. 
+
+[Занятие 5, часть 2](https://github.com/klyshinsky/Math4Linguists2026/blob/main/Lecture_8_Finite_Automatons_20260516.ipynb) - Конечные автоматы. 
+
 
