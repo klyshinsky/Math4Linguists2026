@@ -18,4 +18,9 @@
 
 [Занятие 5, часть 2](https://github.com/klyshinsky/Math4Linguists2026/blob/main/Lecture_8_Finite_Automatons_20260516.ipynb) - Конечные автоматы. 
 
+[Занятие 6, часть 1](https://github.com/klyshinsky/Math4Linguists2026/blob/main/Математика для лингвистов_ Теория формальных языков - 2026.pdf) - Часть в форме презентации. 
+
+[Занятие 6, часть 2](https://github.com/klyshinsky/Math4Linguists2026/blob/main/Lecture_9_Formal_Parsing_20260523.ipynb) - Компиляторы компиляторов. 
+
+[Презентация по курсу "Теория формальных языков"](https://docs.google.com/presentation/d/1SJJLBsOr-CYQcni0yydNOOfk8TbmfHFRAnbb-kihQYQ/edit?usp=sharing).
 
